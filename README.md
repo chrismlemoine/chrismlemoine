@@ -3,7 +3,7 @@ Welcome to my GitHub. I'm a teaching faculty member in Computer Science and Math
 
 I earned my B.S. in Mathematics from **Michigan State University** in 2021 - go green! Since then, I've found my passion in education, working with high school students and helping them develop technical skills and critical thinking.
 
-Outside the classroom, I mentor my school's **FIRST Tech Challenge (FTC) Robotics** teams - we're currently running **6 active teams**! I help manage shared code resources, guide students through autonomous routines, sensor integration, and drive optimization. You can check out the shared [FTC Robot Controller repository](https://github.com/SharylandRobotics/FtcRobotController-/Decode) that we use across our teams
+Outside the classroom, I mentor my school's **FIRST Tech Challenge (FTC) Robotics** teams - we're currently running **6 active teams**! I help manage shared code resources, guide students through autonomous routines, sensor integration, and drive optimization. You can check out the shared [FTC Robot Controller repository](https://github.com/SharylandRobotics/FtcRobotController-Decode) that we use across our teams
 
 Here on GitHub, you'll find a mix of:
 - Classroom resources and curriculum projects
